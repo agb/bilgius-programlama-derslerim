@@ -6,7 +6,7 @@
 2013 yılında Bilgius.com için hazırlamaya başladığım C Programlama derslerimi internet sitesi şu anda yayında olmadığı ve Youtube'daki izleyicilerin ricası üzerine Github'a yüklemek istedim.
 
 - Dersler amatör ruh ile yapılmıştır. Bir yanlış veya hata görürseniz güncellemekten cekinmeyiniz.
-- Dersler ODTU CENG tarafından [referans kaynak](http://user.ceng.metu.edu.tr/~erman/kku/programlama_1/kaynaklar.html "referans kaynak") olarak gösterilmiştir.
+- Dersler ODTÜ Sürekli Eğitim Merkezi tarafından [referans kaynak](http://user.ceng.metu.edu.tr/~erman/kku/programlama_1/kaynaklar.html "referans kaynak") olarak gösterilmiştir.
 - Dersler MIT lisanslı değişime ve paylaşıma açıktır.
 - Videolara [Youtube Oynatma Listesi](https://www.youtube.com/watch?v=Oa1Ah7KZ_UU&list=PLnzvUAsq6oupmoqGTIO-axpDXXw3WOcwU) üzerinden ulaşabilirsiniz.
 
